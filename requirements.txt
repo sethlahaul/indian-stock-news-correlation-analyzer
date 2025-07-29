@@ -5,3 +5,4 @@ yfinance
 newsapi-python 
 textblob 
 plotly
+scipy
