@@ -26,7 +26,7 @@ st.title("📈 Indian Stock News & Price Correlation Analyzer")
 st.markdown("Enhanced sentiment analysis with relevance filtering and comprehensive timezone handling")
 
 # Configuration constants
-LOCAL_CSV = "equityList\EQUITY_L.csv"
+LOCAL_CSV = "indian-stock-news-correlation-analyzer\equityList\EQUITY_L.csv"
 MAX_NEWS = 100
 MAX_LAG = 5
 ALPHA = 0.05
